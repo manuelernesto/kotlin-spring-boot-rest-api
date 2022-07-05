@@ -1,7 +1,7 @@
-package io.github.manuelernesto.demoplayersapi.service
+package io.github.manuelernesto.playersapi.service
 
-import io.github.manuelernesto.demoplayersapi.model.Player
-import io.github.manuelernesto.demoplayersapi.repository.PlayerRepository
+import io.github.manuelernesto.playersapi.model.Player
+import io.github.manuelernesto.playersapi.repository.PlayerRepository
 import org.springframework.data.repository.findByIdOrNull
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Service

@@ -1,4 +1,4 @@
-package io.github.manuelernesto.demoplayersapi
+package io.github.manuelernesto.playersapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

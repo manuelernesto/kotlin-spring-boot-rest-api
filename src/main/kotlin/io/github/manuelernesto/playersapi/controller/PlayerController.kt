@@ -1,7 +1,7 @@
-package io.github.manuelernesto.demoplayersapi.controller
+package io.github.manuelernesto.playersapi.controller
 
-import io.github.manuelernesto.demoplayersapi.model.Player
-import io.github.manuelernesto.demoplayersapi.service.PlayerService
+import io.github.manuelernesto.playersapi.model.Player
+import io.github.manuelernesto.playersapi.service.PlayerService
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
 

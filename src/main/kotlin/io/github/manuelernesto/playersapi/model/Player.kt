@@ -1,4 +1,4 @@
-package io.github.manuelernesto.demoplayersapi.model
+package io.github.manuelernesto.playersapi.model
 
 import javax.persistence.*
 

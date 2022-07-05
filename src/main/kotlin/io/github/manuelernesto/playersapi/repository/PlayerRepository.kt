@@ -1,6 +1,6 @@
-package io.github.manuelernesto.demoplayersapi.repository
+package io.github.manuelernesto.playersapi.repository
 
-import io.github.manuelernesto.demoplayersapi.model.Player
+import io.github.manuelernesto.playersapi.model.Player
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 
