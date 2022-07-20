@@ -1,5 +1,5 @@
 # Kotlin & Spring Boot
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-brightgreen"/>
 </p>
 This repository is part of the series of articles in Medium, 
