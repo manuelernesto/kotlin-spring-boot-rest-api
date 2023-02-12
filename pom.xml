@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.7.0</version>
+        <version>3.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.github.manuelernesto</groupId>
@@ -15,7 +15,7 @@
     <description>players-api</description>
     <properties>
         <java.version>17</java.version>
-        <kotlin.version>1.6.21</kotlin.version>
+        <kotlin.version>1.8.0</kotlin.version>
     </properties>
     <dependencies>
         <dependency>
