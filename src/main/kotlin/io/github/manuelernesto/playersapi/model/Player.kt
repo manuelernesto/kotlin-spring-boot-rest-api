@@ -1,6 +1,7 @@
 package io.github.manuelernesto.playersapi.model
 
-import javax.persistence.*
+import jakarta.persistence.*
+
 
 /**
  * @author  Manuel Ernesto (manuelernest0)
